@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9B127EF2-7360-4E3F-ACDF-8175D9DA4D4D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Models/Aluno.cs">
     <Files>
-      <File FileName="Models/Aluno.cs" Line="14" Column="24" />
+      <File FileName="Models/Aluno.cs" Line="27" Column="37" />
       <File FileName="Models/Boletim.cs" Line="80" Column="10" />
       <File FileName="Models/BoletimDisciplina.cs" Line="7" Column="60" />
       <File FileName="Models/Curso.cs" Line="42" Column="10" />
